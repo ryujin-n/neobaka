@@ -1,5 +1,7 @@
 #  Neobaka – Individual Prototype Project
 
+<img align="right" src="src/logo 1.png"  height="180">
+
 [![Status](https://img.shields.io/badge/status-in%20development-yellow)](https://github.com/ryujin-n/neobaka)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Issues](https://img.shields.io/github/issues/ryujin-n/neobaka)](https://github.com/ryujin-n/neobaka/issues)
@@ -38,7 +40,7 @@ This is a work-in-progress modern website focused on VTuber culture, anime, and 
 
 ### VTubers Showcase
 
-<img src="https://i.imgur.com/r4WYpIM.gif" alt="VTubers Showcase"/>
+<img src="https://i.imgur.com/r4WYpIM.gif" alt="VTubers Showcase" height=""/>
 
 ### 
 
