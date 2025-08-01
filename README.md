@@ -38,7 +38,7 @@ This is a work-in-progress modern website focused on VTuber culture, anime, and 
 
 ### VTubers Showcase
 
-<img src="https://drive.google.com/uc?export=view&id=14mGAIpGj3LsLIU3oLXWYPHwTpd1CRdAx" alt="VTubers Showcase" width="800"/>
+<img src="https://i.imgur.com/r4WYpIM.gif" alt="VTubers Showcase"/>
 
 ### 
 
