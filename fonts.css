@@ -1,0 +1,27 @@
+@import url('https://fonts.cdnfonts.com/css/bebas');
+@import url('https://fonts.cdnfonts.com/css/karmatic-arcade');
+@font-face {
+    font-family: Superstar ;
+    src: url("src/superstar_2/superstar_memesbruh03.ttf");
+}
+@font-face {
+    font-family: 'Fredoka One';
+    font-style: normal;
+    font-weight: 400;
+    src:url('https://fonts.cdnfonts.com/s/15378/FredokaOne-Regular.woff') format('woff');
+}
+@font-face {
+    font-family: 'Fipps';
+    font-style: normal;
+    font-weight: 400;
+    src:url('https://fonts.cdnfonts.com/s/7353/FIPPS___.woff') format('woff');
+}
+@font-face {
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    src:url('src/Bebas_Neue/BebasNeue-Regular.ttf');
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Jersey+25&family=Nabla&family=Pixelify+Sans:wght@400..700&display=swap');
+
