@@ -74,6 +74,4 @@ Before contributing, please open an issue to discuss your idea or suggestion :)
 This project is licensed under the MIT License.  
 See the `LICENSE` file for more information.
 
----
-
 > Made with 💛 by [ryujin-n](https://github.com/ryujin-n)
