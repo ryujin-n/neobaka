@@ -34,15 +34,15 @@ This is a work-in-progress modern website focused on VTuber culture, anime, and 
 
 ## Visual Demonstrations
 
-### Home Page
+> ### Home Page
 
 <img src="assets/Screenshot 2025-08-01 002213.png">
 
-### VTubers Showcase
+> ### VTubers Showcase
 
 <img src="assets/gif1-min.gif" alt="VTubers Showcase"/>
 
-### Application and Contact Form
+> ### Application and Contact Form
 
 <img src="assets/gif2.gif" alt="Forms Showcase"/>
 
