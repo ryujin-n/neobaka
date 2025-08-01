@@ -40,7 +40,7 @@ This is a work-in-progress modern website focused on VTuber culture, anime, and 
 
 ### VTubers Showcase
 
-<img src="https://i.imgur.com/r4WYpIM.gif" alt="VTubers Showcase" height=""/>
+<img src="assets/gif1.webp" alt="VTubers Showcase"/>
 
 ### 
 
