@@ -40,10 +40,11 @@ This is a work-in-progress modern website focused on VTuber culture, anime, and 
 
 ### VTubers Showcase
 
-<img src="assets/gif1.webp" alt="VTubers Showcase"/>
+<img src="assets/gif1-min.gif" alt="VTubers Showcase"/>
 
-### 
+### Application and Contact Form
 
+<img src="assets/gif2.gif" alt="Forms Showcase"/>
 
 ---
 
