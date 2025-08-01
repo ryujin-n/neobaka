@@ -46,6 +46,10 @@ This is a work-in-progress modern website focused on VTuber culture, anime, and 
 
 <img src="assets/gif2.gif" alt="Forms Showcase"/>
 
+> ### Figma Prototype
+
+<img src="assets/Screenshot_10.png" alt="Forms Showcase"/>
+
 ---
 
 ## Future Tasks
